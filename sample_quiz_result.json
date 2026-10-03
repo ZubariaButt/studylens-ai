@@ -1,0 +1,149 @@
+{
+  "status": "success",
+  "error": null,
+  "score": 5.0,
+  "total": 10,
+  "percentage": 50.0,
+  "results": [
+    {
+      "id": "mcq_1",
+      "topic": "Cell Biology",
+      "type": "mcq",
+      "question": "Which organelle produces most of the cell's ATP?",
+      "student_answer": "Mitochondria",
+      "correct_answer": "Mitochondria",
+      "is_correct": true,
+      "marks": 1.0,
+      "feedback": "Correct!"
+    },
+    {
+      "id": "mcq_2",
+      "topic": "Cell Biology",
+      "type": "mcq",
+      "question": "Where does protein synthesis occur?",
+      "student_answer": "Ribosome",
+      "correct_answer": "Ribosome",
+      "is_correct": true,
+      "marks": 1.0,
+      "feedback": "Correct!"
+    },
+    {
+      "id": "mcq_3",
+      "topic": "Genetics",
+      "type": "mcq",
+      "question": "Which base pairs with adenine in DNA?",
+      "student_answer": "Thymine",
+      "correct_answer": "Thymine",
+      "is_correct": true,
+      "marks": 1.0,
+      "feedback": "Correct!"
+    },
+    {
+      "id": "mcq_4",
+      "topic": "Genetics",
+      "type": "mcq",
+      "question": "What is a gene?",
+      "student_answer": "A cell organelle",
+      "correct_answer": "A unit of heredity",
+      "is_correct": false,
+      "marks": 0.0,
+      "feedback": "Incorrect. Correct answer: A unit of heredity. A gene is a unit of heredity."
+    },
+    {
+      "id": "mcq_5",
+      "topic": "Evolution",
+      "type": "mcq",
+      "question": "Who proposed natural selection?",
+      "student_answer": "Darwin",
+      "correct_answer": "Darwin",
+      "is_correct": true,
+      "marks": 1.0,
+      "feedback": "Correct!"
+    },
+    {
+      "id": "mcq_6",
+      "topic": "Ecology",
+      "type": "mcq",
+      "question": "What is the primary energy source for most ecosystems?",
+      "student_answer": "Wind",
+      "correct_answer": "The Sun",
+      "is_correct": false,
+      "marks": 0.0,
+      "feedback": "Incorrect. Correct answer: The Sun. Producers capture sunlight."
+    },
+    {
+      "id": "tf_1",
+      "topic": "Cell Biology",
+      "type": "true_false",
+      "question": "The nucleus contains most of the cell's DNA.",
+      "student_answer": "True",
+      "correct_answer": "True",
+      "is_correct": true,
+      "marks": 1.0,
+      "feedback": "Correct!"
+    },
+    {
+      "id": "tf_2",
+      "topic": "Genetics",
+      "type": "true_false",
+      "question": "DNA is a single-stranded molecule.",
+      "student_answer": "True",
+      "correct_answer": "False",
+      "is_correct": false,
+      "marks": 0.0,
+      "feedback": "Incorrect. The answer is False. DNA is a double helix."
+    },
+    {
+      "id": "tf_3",
+      "topic": "Evolution",
+      "type": "true_false",
+      "question": "Mutations are a source of genetic variation.",
+      "student_answer": "False",
+      "correct_answer": "True",
+      "is_correct": false,
+      "marks": 0.0,
+      "feedback": "Incorrect. The answer is True. Mutations create variation."
+    },
+    {
+      "id": "tf_4",
+      "topic": "Ecology",
+      "type": "true_false",
+      "question": "Decomposers are producers.",
+      "student_answer": "(not answered)",
+      "correct_answer": "False",
+      "is_correct": false,
+      "marks": 0.0,
+      "feedback": "Not answered. Decomposers break down dead matter."
+    }
+  ],
+  "topic_performance": {
+    "Cell Biology": {
+      "correct": 3,
+      "total": 3,
+      "marks": 3.0,
+      "max_marks": 3,
+      "percentage": 100.0
+    },
+    "Genetics": {
+      "correct": 1,
+      "total": 3,
+      "marks": 1.0,
+      "max_marks": 3,
+      "percentage": 33.3
+    },
+    "Evolution": {
+      "correct": 1,
+      "total": 2,
+      "marks": 1.0,
+      "max_marks": 2,
+      "percentage": 50.0
+    },
+    "Ecology": {
+      "correct": 0,
+      "total": 2,
+      "marks": 0.0,
+      "max_marks": 2,
+      "percentage": 0.0
+    }
+  }
+}
